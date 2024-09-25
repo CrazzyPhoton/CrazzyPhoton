@@ -19,6 +19,9 @@
 
 *The **Buy and Sell** smart contract facilitates listing, buying, and canceling token sales of the **Portraits** smart contract, controlled by the owner. Sellers list tokens, set prices, and buyers purchase by paying the price plus royalties. The contract manages listings, royalty distribution, and emits events for sales and cancellations.*
 
+### ⭐ Client's Review ⭐
+![Client Review](https://github.com/CrazzyPhoton/CrazzyPhoton/blob/main/Smart%20Contracts%20For%20Art%20Gallery%20Project/Client%20Review%20for%20Art%20Gallery%20Project.png)
+
 ##
 ## [2) Escrow Smart Contract Project](https://github.com/CrazzyPhoton/CrazzyPhoton/tree/main/Escrow%20Smart%20Contracts%20Project)
 **Created 3 escrow smart contracts for a client from USA, the contracts handled Ethereum, ERC721 NFTs and ERC20 tokens.**
