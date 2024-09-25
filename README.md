@@ -8,4 +8,4 @@ Created 3 custom smart contracts for client for their art gallery.
 
 *This smart contract focused on releasing the annual editions of the art gallery as ERC1155 NFT tokens. Smart contract uses various data types and custom logic for handling the entire art gallery.*
 
-**[Portraits](Smart Contracts For Art Gallery Project/Portraits.sol)**
+**[Portraits](SmartContractProjects/Smart Contracts For Art Gallery Project/Portraits.sol)**
