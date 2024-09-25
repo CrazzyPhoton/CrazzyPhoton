@@ -4,10 +4,10 @@
 
 ***Below is my portfolio as a smart contract developer.***
 
-***Custom smart contracts created by me for clients based on their project requirements.***
+***Some of the custom smart contracts created by me for clients based on their project requirements.***
 
-## [1) Smart Contracts For Art Gallery Project](https://github.com/CrazzyPhoton/SmartContractProjects/tree/main/Smart%20Contracts%20For%20Art%20Gallery%20Project)
-Created 3 custom smart contracts for a client from France for their art gallery.
+## [1) Art Gallery Smart Contract Project](https://github.com/CrazzyPhoton/SmartContractProjects/tree/main/Smart%20Contracts%20For%20Art%20Gallery%20Project)
+**Created 3 smart contracts for a client from France for their art gallery.**
 
 ### [Artist Profiler Gallery](https://github.com/CrazzyPhoton/SmartContractProjects/blob/main/Smart%20Contracts%20For%20Art%20Gallery%20Project/Artist%20Profiler%20Gallery.sol)
 *This smart contract focused on releasing the annual editions of the art gallery itself as ERC1155 NFT tokens. Smart contract uses various data types and custom logic for handling the entire art gallery which includes swift management of all previous editions. Smart contract also has an inbuilt functionality for managing buying and selling transactions of NFTs with royalty management system.*
@@ -17,3 +17,7 @@ Created 3 custom smart contracts for a client from France for their art gallery.
 
 ### [BuyAndSell](https://github.com/CrazzyPhoton/SmartContractProjects/blob/main/Smart%20Contracts%20For%20Art%20Gallery%20Project/BuyAndSell.sol)
 *This smart contract focused on handling the buying and selling transactions of the ERC1155 NFT tokens of the portraits smart contract, also has inbuilt functionality for royalty management of different artists involved.*
+
+## [2) Escrow Smart Contract Project](https://github.com/CrazzyPhoton/CrazzyPhoton/tree/main/Escrow%20Smart%20Contracts%20Project)
+**Created 3 escrow smart contracts for a client from USA, the contracts handled Ethereum, ERC721 NFTs and ERC20 tokens.**
+
