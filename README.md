@@ -1,9 +1,10 @@
-# Rahul Mayekar
-Freelance Smart Contract Developer for the past 2+ years. Have worked on 50+ blockchain projects for clients from US, Europe, Asia and Australia.
+<h1 align ="center">Rahul Mayekar</h1>
 
-Below is my portfolio as a smart contract developer.
+***Freelance Smart Contract Developer for the past 2+ years. Have worked on 50+ blockchain projects for clients from US, Europe, Asia and Australia.***
 
-Custom smart contracts created by me for clients based on their project requirements.
+***Below is my portfolio as a smart contract developer.***
+
+***Custom smart contracts created by me for clients based on their project requirements.***
 
 ## [1) Smart Contracts For Art Gallery Project](https://github.com/CrazzyPhoton/SmartContractProjects/tree/main/Smart%20Contracts%20For%20Art%20Gallery%20Project)
 Created 3 custom smart contracts for a client from France for their art gallery.
