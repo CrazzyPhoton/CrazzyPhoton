@@ -15,9 +15,11 @@
 ### [Portraits](https://github.com/CrazzyPhoton/SmartContractProjects/blob/main/Smart%20Contracts%20For%20Art%20Gallery%20Project/Portraits.sol)
 *This smart contract focused on releasing the annual portraits of various artists collaborating with the art gallery as ERC1155 NFT tokens. Also comprises of various data types and custom logic for handling portraits of all artists with management of all the previous editions of the portraits.*
 
-### [BuyAndSell](https://github.com/CrazzyPhoton/SmartContractProjects/blob/main/Smart%20Contracts%20For%20Art%20Gallery%20Project/BuyAndSell.sol)
-*This smart contract focused on handling the buying and selling transactions of the ERC1155 NFT tokens of the portraits smart contract, also has inbuilt functionality for royalty management of different artists involved.*
+### [Buy And Sell](https://github.com/CrazzyPhoton/SmartContractProjects/blob/main/Smart%20Contracts%20For%20Art%20Gallery%20Project/BuyAndSell.sol)
+*The Buy And Sell smart contract enables listing, buying, and canceling token sales, with controls managed by the owner. Sellers can list "Commercial Edition" tokens, set prices, and buyers can purchase them by paying the required amount plus royalties for the artist and owner. The contract tracks active listings and distributes royalties. The owner can enable or disable listing, buying, and cancellation features. Events are emitted for sales, listings, and cancellations.*
 
 ## [2) Escrow Smart Contract Project](https://github.com/CrazzyPhoton/CrazzyPhoton/tree/main/Escrow%20Smart%20Contracts%20Project)
 **Created 3 escrow smart contracts for a client from USA, the contracts handled Ethereum, ERC721 NFTs and ERC20 tokens.**
 
+### [Ethereum Escrow Smart Contract](https://github.com/CrazzyPhoton/CrazzyPhoton/blob/main/Escrow%20Smart%20Contracts%20Project/Ethereum%20Escrow%20Smart%20Contract.sol)
+*The "Ethereum Escrow Smart Contract" is an Ethereum-based escrow system that enables secure transactions between buyers and sellers. It manages escrows through various states like Created, Funded, Delivered, and Completed, with features for marking deliveries, requesting revisions, and handling disputes or cancellations. An arbiter resolves disputes by allocating funds among the buyer, seller, and themselves. The contract allows escrow creation, funding, and tracks issue or cancellation requests through mappings, while providing flexibility in fees and automatic withdrawal times. Multiple events ensure transparency throughout the escrow process.*
