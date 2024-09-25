@@ -1,7 +1,7 @@
 # Smart Contract Projects
 Custom smart contracts created by me for clients based on their project requirements.
 
-## 1) Smart Contracts For Art Gallery Project
+## [1) Smart Contracts For Art Gallery Project](https://github.com/CrazzyPhoton/SmartContractProjects/tree/main/Smart%20Contracts%20For%20Art%20Gallery%20Project)
 Created 3 custom smart contracts for client for their art gallery.
 
 ### [Artist Profiler Gallery](https://github.com/CrazzyPhoton/SmartContractProjects/blob/main/Smart%20Contracts%20For%20Art%20Gallery%20Project/Artist%20Profiler%20Gallery.sol)
