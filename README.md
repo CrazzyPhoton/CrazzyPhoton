@@ -15,8 +15,6 @@
 *The **Portraits** smart contract releases annual artist portraits as ERC1155 NFTs. It features logic for managing portraits of collaborating artists and supports handling previous portrait editions.*
 ### [Buy And Sell](https://github.com/CrazzyPhoton/SmartContractProjects/blob/main/Smart%20Contracts%20For%20Art%20Gallery%20Project/BuyAndSell.sol)
 *The **Buy and Sell** smart contract facilitates listing, buying, and canceling token sales of the **Portraits** smart contract, controlled by the owner. Sellers list tokens, set prices, and buyers purchase by paying the price plus royalties. The contract manages listings, royalty distribution, and emits events for sales and cancellations.*
-### ⭐ Client's Review ⭐
-![Client Review](https://github.com/CrazzyPhoton/CrazzyPhoton/blob/main/Smart%20Contracts%20For%20Art%20Gallery%20Project/Client%20Review%20for%20Art%20Gallery%20Project.png)
 
 ##
 ## [2) Escrow Smart Contract Project](https://github.com/CrazzyPhoton/CrazzyPhoton/tree/main/Escrow%20Smart%20Contracts%20Project)
@@ -28,5 +26,9 @@
 *The **Ethereum, NFT, and ERC20** escrow smart contracts facilitate secure transactions between buyers and sellers by acting as intermediaries. The contracts manage the process through various states, such as creation, funding, delivery, and completion. They incorporate built-in functions to handle disputes, revisions, and cancellations, ensuring smooth and transparent interactions between parties. An arbiter plays a critical role in overseeing conflicts, fairly allocating funds to the buyer, seller, and themselves based on the resolution, while also managing fees.*
 
 *The contracts log all actions through events like "EscrowCreated," "EscrowFunded," and "EscrowCompleted," providing an audit trail that enhances transparency. Flexible configurations, such as setting the escrow provider fee and automatic withdrawal time, allow the arbiter to adjust the system to specific needs. Additionally, mappings keep track of each party’s escrows, issues, and cancellation requests, offering users clear visibility of their active and completed transactions. These features work together to protect the interests of all involved parties while ensuring the security and reliability of the escrow process.*
-### ⭐ Client's Review ⭐
-![Client Review](https://github.com/CrazzyPhoton/CrazzyPhoton/blob/main/Escrow%20Smart%20Contracts%20Project/Escrow%20contract%20client%20review.png)
+
+##
+## [3) Smart Contract Wallet Project](https://github.com/CrazzyPhoton/CrazzyPhoton/tree/main/Smart%20Contract%20Wallet%20Project)
+**Created a smart contract which acts a wallet for cryptocurrency and NFTs compatible with EVM, this was a personal project**
+### [Smart Contract Wallet](https://github.com/CrazzyPhoton/CrazzyPhoton/blob/main/Smart%20Contract%20Wallet%20Project/Smart%20Contract%20Wallet.sol)
+*This smart contract serves as a digital safe for storing and managing various cryptocurrencies on the Ethereum and EVM compatible blockchains. It allows the owner to securely deposit and withdraw Ethereum (ETH) and other tokens like ERC20, ERC721, and ERC1155. The contract incorporates safeguards to prevent unauthorized access and ensures that the owner has sufficient funds before making transactions.*
