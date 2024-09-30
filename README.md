@@ -4,7 +4,7 @@
 
 ***Below is my portfolio as a smart contract developer.***
 
-***Some of the custom smart contracts created by me for clients and for personal projects.***
+***Some of the custom smart contracts created by me for clients and personal projects.***
 
 ##
 ## CLIENT PROJECTS:-
