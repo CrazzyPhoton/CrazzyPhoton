@@ -1,5 +1,5 @@
 # Escrow Smart Contract Project
-**Created 3 escrow smart contracts, one for Ethereum(ETH), one for ERC721 NFTs and one for ERC20 tokens, smart contract are compatible with EVM blockchains, this was a personal project**
+**Created 3 escrow smart contracts, one for Ethereum(ETH), one for ERC721 NFTs and one for ERC20 tokens, smart contracts are compatible with EVM blockchains, this was a personal project.**
 ### [Ethereum Escrow](https://github.com/CrazzyPhoton/CrazzyPhoton/blob/main/Escrow%20Smart%20Contracts%20Project/Ethereum%20Escrow%20Smart%20Contract.sol)
 ### [NFT Escrow](https://github.com/CrazzyPhoton/CrazzyPhoton/blob/main/Escrow%20Smart%20Contracts%20Project/NFT%20Escrow%20Smart%20Contract.sol)
 ### [ERC20 Escrow](https://github.com/CrazzyPhoton/CrazzyPhoton/blob/main/Escrow%20Smart%20Contracts%20Project/ERC20%20Escrow%20Smart%20Contract.sol)
