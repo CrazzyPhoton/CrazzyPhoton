@@ -4,9 +4,10 @@
 
 ***Below is my portfolio as a smart contract developer.***
 
-***Some of the custom smart contracts created by me for clients based on their project requirements.***
+***Some of the custom smart contracts created by me for clients and for personal projects.***
 
 ##
+## CLIENT PROJECTS:-
 ## [1) Art Gallery Smart Contract Project](https://github.com/CrazzyPhoton/SmartContractProjects/tree/main/Smart%20Contracts%20For%20Art%20Gallery%20Project)
 **Created 3 smart contracts for a client from France for their art gallery, the artwork is published as ERC1155 NFTs and the buying and selling process is handled by a marketplace type smart contract.**
 ### [Artist Profiler Gallery](https://github.com/CrazzyPhoton/SmartContractProjects/blob/main/Smart%20Contracts%20For%20Art%20Gallery%20Project/Artist%20Profiler%20Gallery.sol)
@@ -29,7 +30,8 @@
 *The **Lucky Elephant Club** smart contract utilizes ERC721AUpgradeable for efficient NFT minting by inheriting from the ERC721A standard. Implemented Initializable, UUPSUpgradeable, and other OpenZeppelin upgradeable patterns, enabling upgrades without redeployment. Implemented a client requested feature which allows the ability to amalgamate NFTs into new ones using either one or two parent NFTs, and the integration of ERC20 tokens for this process. Used the merkle proof library of OpenZeppelin for implementing a gas efficient whitelist minting feature.*
 
 ##
-## [4) Escrow Smart Contract Project](https://github.com/CrazzyPhoton/CrazzyPhoton/tree/main/Escrow%20Smart%20Contracts%20Project)
+## PERSONAL PROJECTS:-
+## [1) Escrow Smart Contract Project](https://github.com/CrazzyPhoton/CrazzyPhoton/tree/main/Escrow%20Smart%20Contracts%20Project)
 **Created 3 escrow smart contracts, one for Ethereum(ETH), one for ERC721 NFTs and one for ERC20 tokens, smart contracts are compatible with EVM blockchains, this was a personal project.**
 ### [Ethereum Escrow](https://github.com/CrazzyPhoton/CrazzyPhoton/blob/main/Escrow%20Smart%20Contracts%20Project/Ethereum%20Escrow%20Smart%20Contract.sol)
 ### [NFT Escrow](https://github.com/CrazzyPhoton/CrazzyPhoton/blob/main/Escrow%20Smart%20Contracts%20Project/NFT%20Escrow%20Smart%20Contract.sol)
@@ -40,7 +42,7 @@
 *The contracts log all actions through events like "EscrowCreated," "EscrowFunded," and "EscrowCompleted," providing an audit trail that enhances transparency. Flexible configurations, such as setting the escrow provider fee and automatic withdrawal time, allow the arbiter to adjust the system to specific needs. Additionally, mappings keep track of each party’s escrows, issues, and cancellation requests, offering users clear visibility of their active and completed transactions. These features work together to protect the interests of all involved parties while ensuring the security and reliability of the escrow process.*
 
 ##
-## [5) Smart Contract Wallet Project](https://github.com/CrazzyPhoton/CrazzyPhoton/tree/main/Smart%20Contract%20Wallet%20Project)
+## [2) Smart Contract Wallet Project](https://github.com/CrazzyPhoton/CrazzyPhoton/tree/main/Smart%20Contract%20Wallet%20Project)
 **Created a smart contract which acts a wallet for cryptocurrency and NFTs compatible with EVM, this was a personal project.**
 ### [Smart Contract Wallet](https://github.com/CrazzyPhoton/CrazzyPhoton/blob/main/Smart%20Contract%20Wallet%20Project/Smart%20Contract%20Wallet.sol)
 *The **Smart Contract Wallet** serves as a digital safe for storing and managing various cryptocurrencies on the Ethereum and EVM compatible blockchains. It allows the owner to securely deposit and withdraw Ethereum (ETH) and other tokens like ERC20, ERC721, and ERC1155. The contract incorporates safeguards to prevent unauthorized access and ensures that the owner has sufficient funds before making transactions.*
