@@ -4,6 +4,8 @@
 
 ***Freelance Profiles: [Fiverr](https://www.fiverr.com/rahulmayekar285?public_mode=true) & [Upwork](https://www.upwork.com/freelancers/~01ded178c72bac9434?viewMode=1)***
 
+***Email: mayekarrahul26@gmail.com***
+
 ***Below is my portfolio as a smart contract developer.***
 
 ***Some of the custom smart contracts created by me for clients and personal projects.***
