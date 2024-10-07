@@ -30,18 +30,22 @@
 *The **Buy and Sell** smart contract facilitates listing, buying, and canceling token sales of the **Portraits** smart contract, controlled by the owner. Sellers list tokens, set prices, and buyers purchase by paying the price plus royalties. The contract manages listings, royalty distribution, and emits events for sales and cancellations.*
 
 ##
-## [2) Account Bound Token Smart Contract Project](https://github.com/CrazzyPhoton/CrazzyPhoton/tree/main/Account%20Bound%20Tokens%20Smart%20Contract%20Project)
+## [2) ERC721 Upgradeable Smart Contract Project](https://github.com/CrazzyPhoton/CrazzyPhoton/tree/main/ERC721%20Upgradeable%20Smart%20Contract%20Project)
+**Created a upgradeable ERC721 smart contract for a client from USA for their NFT Project.**
+### [Lucky Elephant Club](https://github.com/CrazzyPhoton/CrazzyPhoton/blob/main/ERC721%20Upgradeable%20Smart%20Contract%20Project/Lucky%20Elephant%20Club.sol)
+**Deployed ERC1967 proxy smart contract on Ethereum Mainnet: https://etherscan.io/address/0x42de23cc51a8425c248c9801395dd47bd1996152#code**
+
+**Deployed ERC721 implementation smart contract on Ethereum Mainnet: https://etherscan.io/address/0xe0fd07912b3b15453cfc02b59daf16d6e77a567d#code**
+
+*The **Lucky Elephant Club** smart contract utilizes ERC721AUpgradeable for efficient NFT minting by inheriting from the ERC721A standard. Implemented Initializable, UUPSUpgradeable, and other OpenZeppelin upgradeable patterns, enabling upgrades without redeployment. Implemented a client requested feature which allows the ability to amalgamate NFTs into new ones using either one or two parent NFTs, and the integration of ERC20 tokens for this process. Used the merkle proof library of OpenZeppelin for implementing a gas efficient whitelist minting feature.*
+
+##
+## [3) Account Bound Token Smart Contract Project](https://github.com/CrazzyPhoton/CrazzyPhoton/tree/main/Account%20Bound%20Tokens%20Smart%20Contract%20Project)
 **Created this smart contract for a client from Spain, the smart contract was for minting digital certificates as ERC721 account bound NFTs.**
 ### [MASTERWEB3](https://github.com/CrazzyPhoton/CrazzyPhoton/blob/main/Account%20Bound%20Tokens%20Smart%20Contract%20Project/MASTERWEB3.sol)
 **Deployed smart contract on Polygon Amoy Testnet: https://www.oklink.com/amoy/address/0xad800dbd529de66d6a2efa1a5fb0d99edbc1dde0/contract**
 
 *The **MASTERWEB3** smart contract is designed to issue and manage digital certificates as ERC721 non-transferable account bound NFTs for students who have completed the Master Web3 course. It enables the course provider to mint new certificates and securely transfer them to students' wallets. The contract incorporates security measures to prevent unauthorized transfers and tracks the total number of minted and burned certificates. Students can view their certificates using a central metadata URL, and the course provider can update this URL to refresh the certificate details for the entire collection. Additionally, the contract allows for verification of student ownership of certificates based on their wallet addresses.*
-
-##
-## [3) ERC721 Upgradeable Smart Contract Project](https://github.com/CrazzyPhoton/CrazzyPhoton/tree/main/ERC721%20Upgradeable%20Smart%20Contract%20Project)
-**Created a upgradeable ERC721 smart contract for a client from USA for their NFT Project.**
-### [Lucky Elephant Club](https://github.com/CrazzyPhoton/CrazzyPhoton/blob/main/ERC721%20Upgradeable%20Smart%20Contract%20Project/Lucky%20Elephant%20Club.sol)
-*The **Lucky Elephant Club** smart contract utilizes ERC721AUpgradeable for efficient NFT minting by inheriting from the ERC721A standard. Implemented Initializable, UUPSUpgradeable, and other OpenZeppelin upgradeable patterns, enabling upgrades without redeployment. Implemented a client requested feature which allows the ability to amalgamate NFTs into new ones using either one or two parent NFTs, and the integration of ERC20 tokens for this process. Used the merkle proof library of OpenZeppelin for implementing a gas efficient whitelist minting feature.*
 
 ##
 ## PERSONAL PROJECTS:-
