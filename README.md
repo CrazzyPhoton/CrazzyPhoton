@@ -1,6 +1,6 @@
 <h1 align ="center">Rahul Mayekar</h1>
 
-***Freelance Smart Contract Developer for the past 2+ years. Have worked on 50+ blockchain projects for clients from US, Europe, Asia and Australia.***
+***Freelance Blockchain & Smart Contract Developer for almost 3 years. Have worked on 50+ blockchain projects for clients from US, Europe, Asia and Australia.***
 
 ***Freelance Profiles: [Fiverr](https://www.fiverr.com/rahulmayekar285?public_mode=true) & [Upwork](https://www.upwork.com/freelancers/~01ded178c72bac9434?viewMode=1)***
 
